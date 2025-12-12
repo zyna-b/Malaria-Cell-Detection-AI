@@ -40,7 +40,7 @@ The model was trained for 6 epochs on the NIH Malaria Dataset.
 
 **3. Predictions**
 > Real-time inference on unseen validation data.
-![Predictions](graphs/predictions.png)
+![Predictions](graphs/Validation_loss.png)
 
 ## 🛠️ Tech Stack
 * **Core:** Python, TensorFlow, Keras
