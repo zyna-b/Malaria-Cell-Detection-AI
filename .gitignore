@@ -1,0 +1,30 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# --- Environments ---
+.env
+.venv
+env/
+venv/
+ENV/
+
+# --- IDE Settings (VS Code) ---
+.vscode/
+
+# --- Operating System Files ---
+.DS_Store
+Thumbs.db
+
+# --- Large Data & Models ---
+# (Uncomment the line below if your model file is >100MB)
+# *.h5
+
+# --- Local Data folders ---
+data/
+datasets/
