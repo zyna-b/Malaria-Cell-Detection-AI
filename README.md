@@ -40,7 +40,7 @@ The model was trained on the NIH Malaria Dataset with outstanding results.
 
 ### Model Architecture
 
-![Model Architecture](graphs/Screenshot 2026-01-04 014013.png)
+![Model Architecture](graphs/m_arc.png)
 
 **Sequential CNN with Data Augmentation:**
 
@@ -67,17 +67,17 @@ The model was trained on the NIH Malaria Dataset with outstanding results.
 
 **Normalized Training Samples:**
 
-![Sample Images](path/to/image3_sample_images.png)
+![Sample Images](graphs/sample1.png)
 
 The model correctly identifies parasitized cells (showing visible dark spots/rings from the parasite) and uninfected cells (uniform appearance).
 
 **Test Set Predictions:**
 
-![Test Predictions](path/to/image4_test_predictions.png)
+![Test Predictions](graphs/sample2.png)
 
 **Prediction Analysis Grid:**
 
-![Prediction Grid](path/to/image5_prediction_grid.png)
+![Prediction Grid](graphs/prediction.png)
 
 The grid shows both correct predictions (green text) and misclassifications (red text), demonstrating the model's strong performance across diverse cell morphologies.
 
