@@ -40,7 +40,7 @@ The model was trained on the NIH Malaria Dataset with outstanding results.
 
 ### Model Architecture
 
-![Model Architecture](path/to/image2_model_architecture.png)
+![Model Architecture](graphs/Screenshot 2026-01-04 014013.png)
 
 **Sequential CNN with Data Augmentation:**
 
